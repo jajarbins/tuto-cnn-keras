@@ -6,7 +6,7 @@ Then put your data by class wisely in those subdirectories, a good data segmenta
 
 So you should have a data folder following this pattern : 
 
-data/
+data/ \n
   train/
       classe_1/
           img_1.jpg
@@ -34,5 +34,9 @@ data/
       ...
       classe_n/
           ...   
+          
+          
+          
+          
       
       
